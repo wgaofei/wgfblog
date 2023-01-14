@@ -1,0 +1,25 @@
+// place your custom styles herend
+@font-face {
+  font-family: Sans;
+  src: url('/Sans.otf') format('opentype');
+}
+body,
+.title,
+.blogger-info,
+.description {
+  font-family: Sans !important;
+}
+.logo,
+.hero-image {
+  border-radius: 5px;
+}
+.blog-hero h1 {
+  font-style: italic;
+  font-weight: bold;
+  color: #f8f8ff;
+  text-shadow: 2px 2px #000;
+}
+.blog-hero .description {
+  color: #f8f8ff;
+  text-shadow: 1px 1px #000;
+}
