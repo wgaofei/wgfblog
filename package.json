@@ -1,7 +1,7 @@
 {
-  "name": "zfhblog",
+  "name": "wgfblog",
   "version": "2.0.0",
-  "description": "zfh's blog",
+  "description": "wgf's blog",
   "license": "MIT",
   "type": "module",
   "scripts": {

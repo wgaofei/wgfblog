@@ -2,12 +2,12 @@ import { hopeTheme } from 'vuepress-theme-hope'
 import Navbar from './bar/Navbar'
 import Sidebar from './bar/Sidebar'
 export default hopeTheme({
-  hostname: 'https://zfhblog.top',
+  hostname: 'https://feilou.top',
   contributors: false,
   editLink: false,
   author: {
     name:'wgf',
-    url: 'https://zfhblog.top',
+    url: 'https://feilou.top',
   },
   repoDisplay: false,
   iconAssets: '//at.alicdn.com/t/c/font_3677319_fpxjwzfyufn.css',
