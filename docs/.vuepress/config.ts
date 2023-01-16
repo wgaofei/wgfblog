@@ -1,6 +1,5 @@
 import { defineUserConfig } from 'vuepress'
 import theme from './theme.js'
-import { docsearchPlugin } from '@vuepress/plugin-docsearch'
 import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
 import { getDirname, path } from '@vuepress/utils'
 import { removeHtmlExtensionPlugin } from 'vuepress-plugin-remove-html-extension'
@@ -15,11 +14,6 @@ export default defineUserConfig({
     removeHtmlExtensionPlugin(),
     registerComponentsPlugin({
       componentsDir: path.resolve(__dirname, './components'),
-    }),
-    docsearchPlugin({
-      appId: 'HDTORBOLNJ',
-      apiKey: '5cc292fcb4b413686f662fc008a02ffa',
-      indexName: 'zfhtop',
     }),
   ],
   theme,
