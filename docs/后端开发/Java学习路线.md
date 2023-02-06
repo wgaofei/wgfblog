@@ -5,6 +5,7 @@ category:
 order: 2
 date: 2023-01-12
 tag: yupi
+sticky: 10000
 ---
 # Java 学习路线
 

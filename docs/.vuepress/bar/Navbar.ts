@@ -22,16 +22,6 @@ export default navbar([
     icon: 'gongju',
   },
   {
-    text: '基础知识',
-    link: '/基础知识/本地存储.html',
-    icon: 'study',
-  },
-  {
-    text: '开发日志',
-    link: '/开发日志/CSS/CSS文本溢出处理方式.html',
-    icon: 'biji',
-  },
-  {
     text: '书签收藏',
     icon: 'shuqian',
     link: '/书签收藏',
