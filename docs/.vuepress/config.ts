@@ -3,6 +3,7 @@ import theme from './theme.js'
 import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
 import { getDirname, path } from '@vuepress/utils'
 import { removeHtmlExtensionPlugin } from 'vuepress-plugin-remove-html-extension'
+// @ts-ignore
 const __dirname = getDirname(import.meta.url)
 export default defineUserConfig({
   base: '/',

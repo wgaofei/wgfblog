@@ -56,6 +56,7 @@ export default hopeTheme({
     <img src='https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white'/>
     <img src='https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white'/>
     <img src='https://img.shields.io/badge/-Adobe Lightroom-31A8FF?style=flat-square&logo=Adobe Lightroom&logoColor=white'/>
+    <img src='https://img.shields.io/badge/-Nikon-FFE100?style=flat-square&logo=nikon&logoColor=white'/>
     <hr>
     `,
     medias: {
